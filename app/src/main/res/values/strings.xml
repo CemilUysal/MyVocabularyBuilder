@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Vocabulary Builder</string>
+    <string-array name= "word_category">
+        <item>Verbs</item>
+        <item>Adverbs</item>
+        <item>Adjectives</item>
+        <item>Phrases And Idioms</item>
+    </string-array>
+</resources>

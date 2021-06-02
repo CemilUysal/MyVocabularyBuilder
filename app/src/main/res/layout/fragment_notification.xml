@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".NotificationFragment">
+
+
+    <ImageView
+        android:id="@+id/imageView2Noti"
+        android:layout_width="250dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="20dp"
+        android:src="@android:drawable/ic_menu_gallery"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textCategoryNoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:text="Category"
+        android:textColor="#FFFFFF"
+        android:background="@color/teal_700"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2Noti"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textWordNoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:text="Word"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:background="@color/teal_200"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textCategoryNoti"
+        tools:ignore="MissingConstraints" />
+
+
+
+    <TextView
+        android:id="@+id/textSentenceNoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Example Sentence"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:background="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textWordNoti" />
+
+    <TextView
+        android:id="@+id/textSynonymsNoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="Synonyms"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:background="@color/teal_200"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textSentenceNoti" />
+
+    <TextView
+        android:id="@+id/textAntonymsNoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="Antonyms"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:background="@color/teal_700"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textSynonymsNoti"
+        />
+
+    <Button
+        android:id="@+id/buttonRemind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="RemindLater"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonMemorized"
+        android:layout_marginTop="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/textAntonymsNoti" />
+    <Button
+        android:id="@+id/buttonMemorized"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="Memorized"
+        app:layout_constraintEnd_toStartOf="@+id/buttonRemind"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/textAntonymsNoti" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

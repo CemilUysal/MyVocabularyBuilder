@@ -1,0 +1,2 @@
+com/example/myvocabularybuilder/BuildConfig.java
+ com.example.myvocabularybuilder.BuildConfig

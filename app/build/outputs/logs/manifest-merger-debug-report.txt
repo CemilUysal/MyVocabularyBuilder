@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/25ed96d4a80d0b4b60d3c091073932d3/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/15dc9189383a6b3358ef3e765e85826b/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/75eb1e819c71f73d89673518c6bd21e7/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f854075075c9e1237f048d0113d2c493/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/377c185bb5474653f62ce2dff1ce81ce/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/89d85492462d904375a2ad75ce71dd74/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f8d9029f38feaffced2160aa8cf558df/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5b2ad7a816b32796ffd45f99bd499ca7/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/01dad4b9861eb093e46f314c00380c2a/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d54a92ec8630ffd222c5b0f0109aa4cc/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f0600d6b3cb2c286b876a934e7a5ca39/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7d6726b38cc08067f49abff48e175e60/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b4b31637836b912333aace3cec0848cb/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7b1bcf51fb986acf3618152185154ff0/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5378c88353607b79b6186f5ed5036359/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/327307edd7c9a10c195c11afe79e542c/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/2b1847cdaa39d4c12eee97b26c3fb64e/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b9b6b7209cbc2e2622897c542f4aa539/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/55cacccd4804abc01fe8e7465c4a5c08/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1eac58ade1d8a6a8465a77e504cc8951/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f9b4da7696b08f53822eda2e9f784d2d/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5b510aefa6edf02ba286aac4ad1ba664/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/06a8ae90420cdce36eae676e7c1fc606/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/106b9d075449908153182b59f5d06a0d/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b22721ca0726960db15e4fcb993ad2c3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/57d81f38af4c658fc73f7e138df762e6/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/47664f9775a85015d566abc3ad8e9575/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/cb241bec6ff99a2123a19c4b5df6e803/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c22385f4f3d652c48e849570b6a9f112/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/4a2d6bf1a20c37d4d5cd6eb5da13be57/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/fe08e58f7f3f332938baac85ed24d95f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/e8196b1fc6feabb48d889733162b87cb/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/4817cc541b612a07d42b04c22e01eecb/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d217285892e52d86ff9d8fd288b07c52/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/da4173d2fa5bced122d1e0412fb2d38b/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f8475cb2270d1141513820ea46050c94/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c32df17613f14426372f9648a7887f21/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/df8a5ebf65d340e125412a1296700ac4/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1380768bbaa65218d71c7d4833948238/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d0a8587d095da928035850d1bdee59ae/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/aff5f82301dc75bad5ebc7f509c06703/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/3ba24385729136d7ca110362e2fef7d4/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/10faffcf53b4f474dd819fd67212a696/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/534320d8cad9dfb0f0771197ef70e23c/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b115286e1c4c7e7f45515050aae44571/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/8f4e8bc86d9b6b6afa2ff35eff3f9350/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/3ce96ed1238abb3791cafd24eb54e99e/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c012f7c1d0d1387708b540e9ba1647f2/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/a48955106a9c1930da1eda50157b064d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c54e816bfe23cc5d71b756fa45ac871f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/fc6a568054f94ecfaa44ba0a68882caa/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d381cbe20e068f13f50c5989e63df09a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/746e59315a9b57a417311fcdd2b0d8cb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/88c25a6f360ed6aa2380ec125da97ae0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/91fef360e962008d24b552717367c665/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:5:5-96
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7d6726b38cc08067f49abff48e175e60/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7d6726b38cc08067f49abff48e175e60/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b4b31637836b912333aace3cec0848cb/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b4b31637836b912333aace3cec0848cb/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1380768bbaa65218d71c7d4833948238/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1380768bbaa65218d71c7d4833948238/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/8f4e8bc86d9b6b6afa2ff35eff3f9350/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/8f4e8bc86d9b6b6afa2ff35eff3f9350/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1380768bbaa65218d71c7d4833948238/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:13:9-57
+receiver#com.example.myvocabularybuilder.Alarmreceiver
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:14:9-73
+	android:enabled
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:14:49-71
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:14:19-48
+receiver#com.example.myvocabularybuilder.BootReceiver
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:15:9-19:20
+	android:enabled
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:15:48-70
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:16:13-18:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:17:17-78
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:17:25-76
+activity#com.example.myvocabularybuilder.MainActivity
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/25ed96d4a80d0b4b60d3c091073932d3/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/25ed96d4a80d0b4b60d3c091073932d3/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/15dc9189383a6b3358ef3e765e85826b/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/15dc9189383a6b3358ef3e765e85826b/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/75eb1e819c71f73d89673518c6bd21e7/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/75eb1e819c71f73d89673518c6bd21e7/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f854075075c9e1237f048d0113d2c493/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f854075075c9e1237f048d0113d2c493/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/377c185bb5474653f62ce2dff1ce81ce/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/377c185bb5474653f62ce2dff1ce81ce/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/89d85492462d904375a2ad75ce71dd74/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/89d85492462d904375a2ad75ce71dd74/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f8d9029f38feaffced2160aa8cf558df/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f8d9029f38feaffced2160aa8cf558df/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5b2ad7a816b32796ffd45f99bd499ca7/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5b2ad7a816b32796ffd45f99bd499ca7/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/01dad4b9861eb093e46f314c00380c2a/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/01dad4b9861eb093e46f314c00380c2a/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d54a92ec8630ffd222c5b0f0109aa4cc/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d54a92ec8630ffd222c5b0f0109aa4cc/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f0600d6b3cb2c286b876a934e7a5ca39/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f0600d6b3cb2c286b876a934e7a5ca39/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7d6726b38cc08067f49abff48e175e60/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7d6726b38cc08067f49abff48e175e60/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b4b31637836b912333aace3cec0848cb/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b4b31637836b912333aace3cec0848cb/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7b1bcf51fb986acf3618152185154ff0/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/7b1bcf51fb986acf3618152185154ff0/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5378c88353607b79b6186f5ed5036359/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5378c88353607b79b6186f5ed5036359/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/327307edd7c9a10c195c11afe79e542c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/327307edd7c9a10c195c11afe79e542c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/2b1847cdaa39d4c12eee97b26c3fb64e/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/2b1847cdaa39d4c12eee97b26c3fb64e/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b9b6b7209cbc2e2622897c542f4aa539/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b9b6b7209cbc2e2622897c542f4aa539/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/55cacccd4804abc01fe8e7465c4a5c08/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/55cacccd4804abc01fe8e7465c4a5c08/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1eac58ade1d8a6a8465a77e504cc8951/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1eac58ade1d8a6a8465a77e504cc8951/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f9b4da7696b08f53822eda2e9f784d2d/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f9b4da7696b08f53822eda2e9f784d2d/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5b510aefa6edf02ba286aac4ad1ba664/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/5b510aefa6edf02ba286aac4ad1ba664/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/06a8ae90420cdce36eae676e7c1fc606/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/06a8ae90420cdce36eae676e7c1fc606/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/106b9d075449908153182b59f5d06a0d/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/106b9d075449908153182b59f5d06a0d/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b22721ca0726960db15e4fcb993ad2c3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b22721ca0726960db15e4fcb993ad2c3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/57d81f38af4c658fc73f7e138df762e6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/57d81f38af4c658fc73f7e138df762e6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/47664f9775a85015d566abc3ad8e9575/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/47664f9775a85015d566abc3ad8e9575/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/cb241bec6ff99a2123a19c4b5df6e803/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/cb241bec6ff99a2123a19c4b5df6e803/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c22385f4f3d652c48e849570b6a9f112/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c22385f4f3d652c48e849570b6a9f112/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/4a2d6bf1a20c37d4d5cd6eb5da13be57/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/4a2d6bf1a20c37d4d5cd6eb5da13be57/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/fe08e58f7f3f332938baac85ed24d95f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/fe08e58f7f3f332938baac85ed24d95f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/e8196b1fc6feabb48d889733162b87cb/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/e8196b1fc6feabb48d889733162b87cb/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/4817cc541b612a07d42b04c22e01eecb/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/4817cc541b612a07d42b04c22e01eecb/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d217285892e52d86ff9d8fd288b07c52/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d217285892e52d86ff9d8fd288b07c52/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/da4173d2fa5bced122d1e0412fb2d38b/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/da4173d2fa5bced122d1e0412fb2d38b/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f8475cb2270d1141513820ea46050c94/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/f8475cb2270d1141513820ea46050c94/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c32df17613f14426372f9648a7887f21/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c32df17613f14426372f9648a7887f21/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/df8a5ebf65d340e125412a1296700ac4/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/df8a5ebf65d340e125412a1296700ac4/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1380768bbaa65218d71c7d4833948238/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/1380768bbaa65218d71c7d4833948238/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d0a8587d095da928035850d1bdee59ae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d0a8587d095da928035850d1bdee59ae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/aff5f82301dc75bad5ebc7f509c06703/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/aff5f82301dc75bad5ebc7f509c06703/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/3ba24385729136d7ca110362e2fef7d4/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/3ba24385729136d7ca110362e2fef7d4/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/10faffcf53b4f474dd819fd67212a696/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/10faffcf53b4f474dd819fd67212a696/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/534320d8cad9dfb0f0771197ef70e23c/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/534320d8cad9dfb0f0771197ef70e23c/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b115286e1c4c7e7f45515050aae44571/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/b115286e1c4c7e7f45515050aae44571/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/8f4e8bc86d9b6b6afa2ff35eff3f9350/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/8f4e8bc86d9b6b6afa2ff35eff3f9350/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/3ce96ed1238abb3791cafd24eb54e99e/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/3ce96ed1238abb3791cafd24eb54e99e/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c012f7c1d0d1387708b540e9ba1647f2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c012f7c1d0d1387708b540e9ba1647f2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/a48955106a9c1930da1eda50157b064d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/a48955106a9c1930da1eda50157b064d/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c54e816bfe23cc5d71b756fa45ac871f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/c54e816bfe23cc5d71b756fa45ac871f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/fc6a568054f94ecfaa44ba0a68882caa/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/fc6a568054f94ecfaa44ba0a68882caa/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d381cbe20e068f13f50c5989e63df09a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/d381cbe20e068f13f50c5989e63df09a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/746e59315a9b57a417311fcdd2b0d8cb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/746e59315a9b57a417311fcdd2b0d8cb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/88c25a6f360ed6aa2380ec125da97ae0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/88c25a6f360ed6aa2380ec125da97ae0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/91fef360e962008d24b552717367c665/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/cemiluysal/.gradle/caches/transforms-2/files-2.1/91fef360e962008d24b552717367c665/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cemiluysal/Desktop/WORKS/4-2/MobileDevice/MyVocabularyBuilder/app/src/main/AndroidManifest.xml

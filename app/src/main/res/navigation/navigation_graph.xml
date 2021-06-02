@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph.xml"
+    app:startDestination="@id/categoryListFragment">
+
+    <fragment
+        android:id="@+id/categoryListFragment"
+        android:name="com.example.myvocabularybuilder.CategoryListFragment"
+        android:label="fragment_category_list"
+        tools:layout="@layout/fragment_category_list" >
+        <action
+            android:id="@+id/action_categoryListFragment_to_quizFragment"
+            app:destination="@id/quizFragment" />
+        <action
+            android:id="@+id/action_categoryListFragment_to_addWordFragment"
+            app:destination="@id/addWordFragment" />
+        <action
+            android:id="@+id/action_categoryListFragment_to_notificationFragment"
+            app:destination="@id/notificationFragment" />
+        <action
+            android:id="@+id/action_categoryListFragment_to_categoryFragment"
+            app:destination="@id/categoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.example.myvocabularybuilder.CategoryFragment"
+        android:label="fragment_category"
+        tools:layout="@layout/fragment_category" >
+        <action
+            android:id="@+id/action_categoryFragment_to_categoryListFragment"
+            app:destination="@id/categoryListFragment" />
+        <action
+            android:id="@+id/action_categoryFragment_to_wordFragment"
+            app:destination="@id/wordFragment" />
+        <argument
+            android:name="categoryType"
+            app:argType="string"
+            android:defaultValue="verbs" />
+    </fragment>
+    <fragment
+        android:id="@+id/wordFragment"
+        android:name="com.example.myvocabularybuilder.WordFragment"
+        android:label="fragment_word"
+        tools:layout="@layout/fragment_word" >
+        <action
+            android:id="@+id/action_wordFragment_to_categoryFragment"
+            app:destination="@id/categoryFragment" />
+        <argument
+            android:name="category"
+            app:argType="string"
+            android:defaultValue="verbs" />
+        <argument
+            android:name="word"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizFragment"
+        android:name="com.example.myvocabularybuilder.QuizFragment"
+        android:label="fragment_quiz"
+        tools:layout="@layout/fragment_quiz" >
+        <action
+            android:id="@+id/action_quizFragment_to_categoryListFragment"
+            app:destination="@id/categoryListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addWordFragment"
+        android:name="com.example.myvocabularybuilder.AddWordFragment"
+        android:label="fragment_add_word"
+        tools:layout="@layout/fragment_add_word" >
+        <action
+            android:id="@+id/action_addWordFragment_to_categoryListFragment"
+            app:destination="@id/categoryListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/notificationFragment"
+        android:name="com.example.myvocabularybuilder.NotificationFragment"
+        android:label="fragment_notification"
+        tools:layout="@layout/fragment_notification" >
+        <action
+            android:id="@+id/action_notificationFragment_to_categoryListFragment"
+            app:destination="@id/categoryListFragment" />
+    </fragment>
+</navigation>
